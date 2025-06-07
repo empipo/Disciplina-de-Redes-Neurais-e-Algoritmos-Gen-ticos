@@ -1,4 +1,10 @@
-# Disciplina de Redes Neurais e Algoritmos genéticos
+# Disciplina de Redes Neurais e Algoritmos Genéticos
+
+O presente repositório reune todas as atividades realizadas na disciplina de Redes Neurais e Algoritmos Genéticos mistrada pelo docente Daniel Cassar. As atividades estão separadas por 3 pastas: Monstrinhos, Feras Formidáveis, Monstrinhos e Feras Formidáveis. As quais são algumas das classificações das atividades do semestre, apresetadas no arquivo Guia do Aventureiro de Lumi.pdf
+
+# Autor: 
+- Emanuel Piveta Pozzobon
+
 
 <br>
  
